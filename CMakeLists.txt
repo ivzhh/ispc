@@ -179,6 +179,7 @@ target_sources(${PROJECT_NAME}
         "src/type.h"
         "src/util.cpp"
         "src/util.h"
+        "src/LLVMDump.cpp"
         "src/parse.yy"
         "src/lex.ll"
 )
